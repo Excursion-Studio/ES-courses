@@ -198,5 +198,5 @@
 
 如果您在学习过程中遇到任何问题，或者对教程的改进有任何建议，欢迎联系我们：
 
-- Official Repository: [https://excursion-studio.github.io/differential-geometry/](https://github.com/Excursion-Studio/differential-geometry)
+- Official Repository: [https://excursion-studio.github.io/ES-courses/](https://github.com/Excursion-Studio/ES-courses)
 - Email: [excursion-studio@outlook.com](mailto:excursion-studio@outlook.com)
