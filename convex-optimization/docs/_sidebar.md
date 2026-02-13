@@ -1,0 +1,13 @@
+- 目录
+- [课程大纲](README.md)
+- [第1章 凸集与凸函数](chapter01_convex_sets_functions/chapter01_convex_sets_functions.md)
+- [第2章 凸优化问题](chapter02_convex_problems/chapter02_convex_problems.md)
+- [第3章 对偶理论](chapter03_duality_theory/chapter03_duality_theory.md)
+- [第4章 凸优化算法](chapter04_convex_algorithms/chapter04_convex_algorithms.md)
+- [第5章 多目标优化基础](chapter05_multiobjective_basics/chapter05_multiobjective_basics.md)
+- [第6章 多目标优化算法](chapter06_multiobjective_algorithms/chapter06_multiobjective_algorithms.md)
+- [第7章 多目标优化应用](chapter07_multiobjective_applications/chapter07_multiobjective_applications.md)
+- [第8章 流形的基本概念](chapter08_manifold_basics/chapter08_manifold_basics.md)
+- [第9章 流形优化的基本理论](chapter09_manifold_optimization_theory/chapter09_manifold_optimization_theory.md)
+- [第10章 流形优化算法](chapter10_manifold_algorithms/chapter10_manifold_algorithms.md)
+- [第11章 流形优化在机器人中的应用](chapter11_manifold_robotics_applications/chapter11_manifold_robotics_applications.md)
