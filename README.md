@@ -43,9 +43,7 @@
 
 ## 🚀 如何进入
 
-访问在线教程：[https://excursion-studio.github.io/ES-courses/](https://excursion-studio.github.io/ES-courses/)
-
-或者从 Excursion Studio 主页的 Course 页面：[https://excursion-studio.github.io/courses.html?lang=zh](https://excursion-studio.github.io/courses.html?lang=zh) 进入具体的课程。
+可以从 Excursion Studio 主页的 Course 页面：[https://excursion-studio.github.io/courses.html?lang=zh](https://excursion-studio.github.io/courses.html?lang=zh) 进入具体的课程。
 
 ## 📖 技术说明
 
