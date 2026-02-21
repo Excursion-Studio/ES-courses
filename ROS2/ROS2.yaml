@@ -1,0 +1,34 @@
+id: ros2-tutorial
+section: robot-practical-tools
+available: true
+link: https://excursion-studio.github.io/ES-courses/ROS2/
+
+en:
+  sectionTitle: Robot Practical Tools Series
+  title: ROS2 Basic and Advanced Tutorials
+  text: Provide complete ROS2 development skills for robotics students and developers, from basic concepts to advanced applications, covering single robot development, multi-robot collaboration, air-ground collaboration, and aerial manipulators.
+  topics:
+    - ROS2 Core Concepts: Nodes, Topics, Services, Parameters, Actions
+    - Robot Platform Development: Manipulators, UGVs, UAVs
+    - Simulation and Visualization: Gazebo, RViz2
+    - Advanced Applications: Multi-Robot Collaboration, Air-Ground Collaboration, Aerial Manipulators
+  tags:
+    - ROS2
+    - MoveIt2
+    - Nav2
+    - PX4
+
+zh:
+  sectionTitle: 机器人实践工具系列
+  title: ROS2 基础与进阶教程
+  text: 为机器人专业学生和开发者提供完整的 ROS2 开发技能，从基础概念到高级应用，涵盖单机开发、多机器人协作、空地协同和空中机械臂等前沿技术。
+  topics:
+    - ROS2 核心概念：节点、话题、服务、参数、动作
+    - 机器人平台开发：机械臂、无人车、无人机
+    - 仿真与可视化：Gazebo、RViz2
+    - 高级应用：多机器人协作、空地协同、空中机械臂
+  tags:
+    - ROS2
+    - MoveIt2
+    - Nav2
+    - PX4

@@ -1,0 +1,34 @@
+id: stochastic-process
+section: foundation-probabilistic-robotics
+available: true
+link: https://excursion-studio.github.io/ES-courses/stochastic-process/
+
+en:
+  sectionTitle: Foundation of Probabilistic Robotics Tutorial Series
+  title: Stochastic Process
+  text: From probability theory foundations to stochastic process theory, master Markov processes and filtering algorithms, and learn how to perform robot state estimation and decision-making under uncertainty.
+  topics:
+    - Probability Theory Fundamentals
+    - Markov Processes and Stationary Processes
+    - Poisson Processes and Brownian Motion
+    - Kalman Filtering and Particle Filtering
+    - Markov Decision Processes
+  tags:
+    - Probability Theory
+    - Markov Processes
+    - Kalman Filtering
+
+zh:
+  sectionTitle: 概率机器人基础教程系列
+  title: 随机过程
+  text: 从概率论基础到随机过程理论，掌握马尔可夫过程、滤波算法，学习如何在不确定性环境下进行机器人状态估计和决策。
+  topics:
+    - 概率论基础
+    - 马尔可夫过程与平稳过程
+    - 泊松过程与布朗运动
+    - 卡尔曼滤波与粒子滤波
+    - 马尔可夫决策过程
+  tags:
+    - 概率论
+    - 马尔可夫过程
+    - 卡尔曼滤波
