@@ -1,11 +1,13 @@
 en:
   futureTags:
-    - Reinforcement Learning
-    - Robot Control
+    - Mathematics Fundamentals for Robotics
+    - Core Technologies for Robotics
+    - Practical Tools for Robotics
     - "..."
 
 zh:
   futureTags:
-    - 强化学习
-    - 机器人控制
+    - 机器人数学基础
+    - 机器人核心技术
+    - 机器人实用工具
     - "..."
